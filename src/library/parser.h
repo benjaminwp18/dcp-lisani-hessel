@@ -1,7 +1,7 @@
 
 /*
  *  parser.h
- *  
+ *
  *
  *  Created by Antoni Buades 2012.
  *
@@ -48,13 +48,13 @@
 //! Parser
 //
 typedef struct optstruct
-{	
+{
 	char *gp;
     int flag;
     char *defvalue;
     char *value;
     char *comment;
-    
+
 } OptStruct;
 
 
